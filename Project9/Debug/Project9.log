@@ -1,0 +1,10 @@
+﻿Build started 7/5/2021 10:03:01 PM.
+     1>Project "C:\Users\96399\Desktop\billiardBall\Project9\Project9.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         Project9.vcxproj -> C:\Users\96399\Desktop\billiardBall\Debug\Project9.exe
+     1>Done Building Project "C:\Users\96399\Desktop\billiardBall\Project9\Project9.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.46
